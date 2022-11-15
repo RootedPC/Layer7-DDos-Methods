@@ -1,0 +1,18 @@
+--------------------------
+Made by Ciapak with love <3
+--------------------------
+
+Usage: python3 main.py [TARGET] [TIME] [THREAD] [PROXYPATH] [USERAGENTS LIST] [INTERVAL] [HTTP VERSION (random/your version] [LICENSE]
+
+Additional parametrs: 
+
+Example: --incognito | Enables browser in incognito mode
+
+
+-- IMPORTANT ASF --
+
+983v2n190muaoei
+
+This method can't be patched by cloudflare why ? Cuz they would need to somehow check by camera that real dude is opening specyfic site xD 
+
+Method is emulating 1:1 normal user browsing it have HIGH Bypassity rate only thing that can fuck up method is proxies if you don't have good proxies then don't think about getting huge ammounts past sites
